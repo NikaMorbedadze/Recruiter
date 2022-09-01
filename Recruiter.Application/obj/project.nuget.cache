@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "+MSP2hxs+nS+tJVQAKbs/iTXv61Q7b0NuuI+0tvIaWENBI2vmL4a7tMxU5hr8RdH+4lABGnhvsl3YA4Ej9/YXg==",
+  "dgSpecHash": "cJ9m6LWKbsdAbgdgrutlwlcDmo/+63E5re7XuEPPiD9jHnMMhzPQgornD9iRjbwLJ4jyFpQ7IZN8t/vHskwjXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\n.morbedadze\\Desktop\\Recruiter\\Recruiter.Application\\Recruiter.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
