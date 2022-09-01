@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "YMl6uwYGAaKoWpzEh6sBxBgAzSDSbwu+nSGnGPPPX2+gxdfWKHna0bs3b9rzSbX7hw8oogg/G8baOKjvJXKpAw==",
+  "dgSpecHash": "+MSP2hxs+nS+tJVQAKbs/iTXv61Q7b0NuuI+0tvIaWENBI2vmL4a7tMxU5hr8RdH+4lABGnhvsl3YA4Ej9/YXg==",
   "success": true,
   "projectFilePath": "C:\\Users\\n.morbedadze\\Desktop\\Recruiter\\Recruiter.Application\\Recruiter.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\n.morbedadze\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
