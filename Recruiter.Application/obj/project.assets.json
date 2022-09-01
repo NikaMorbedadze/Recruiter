@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Recruiter.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Recruiter.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Recruiter.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Recruiter.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Recruiter.Domain/Recruiter.Domain.csproj",
+      "msbuildProject": "../Recruiter.Domain/Recruiter.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Recruiter.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\n.morbedadze\\.nuget\\packages\\": {}
@@ -35,7 +54,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\n.morbedadze\\Desktop\\Recruiter\\Recruiter.Domain\\Recruiter.Domain.csproj": {
+              "projectPath": "C:\\Users\\n.morbedadze\\Desktop\\Recruiter\\Recruiter.Domain\\Recruiter.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
