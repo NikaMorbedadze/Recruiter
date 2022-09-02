@@ -5,5 +5,5 @@ namespace Recruiter.Application.Features.Candidates.Requests.Commands;
 
 public class CreateCandidateCommand : IRequest<int>
 {
-    public CandidateDto? CandidateDto { get; set; }
+    public CreateCandidateDto? CandidateDto { get; set; }
 }

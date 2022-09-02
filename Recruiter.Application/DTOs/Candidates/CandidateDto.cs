@@ -2,7 +2,7 @@
 
 namespace Recruiter.Application.DTOs.Candidates;
 
-public class CandidateDto : BaseDto
+public class CandidateDto : BaseDto , ICandidateDto
 {
     public string? Name { get; set; }
     public string? LastName { get; set; }

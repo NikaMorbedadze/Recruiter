@@ -1,6 +1,6 @@
 ﻿namespace Recruiter.Application.DTOs.Candidates;
 
-public class CreateCandidateDto : ICandidateDto
+public interface ICandidateDto
 {
     public string? Name { get; set; }
     public string? LastName { get; set; }
