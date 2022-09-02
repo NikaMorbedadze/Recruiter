@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using Recruiter.Application.DTOs.Candidate;
+using Recruiter.Application.DTOs.Candidates;
 using Recruiter.Domain;
 
 namespace Recruiter.Application.Profiles;

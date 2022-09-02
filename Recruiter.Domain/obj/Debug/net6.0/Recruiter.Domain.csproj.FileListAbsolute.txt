@@ -1,0 +1,12 @@
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\bin\Debug\net6.0\Recruiter.Domain.deps.json
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\bin\Debug\net6.0\Recruiter.Domain.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\bin\Debug\net6.0\Recruiter.Domain.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.csproj.AssemblyReference.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.AssemblyInfoInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.AssemblyInfo.cs
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\refint\Recruiter.Domain.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\Recruiter.Domain.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Domain\obj\Debug\net6.0\ref\Recruiter.Domain.dll

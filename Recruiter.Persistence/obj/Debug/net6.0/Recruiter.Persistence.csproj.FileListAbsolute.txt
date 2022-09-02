@@ -1,0 +1,12 @@
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\bin\Debug\net6.0\Recruiter.Persistence.deps.json
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\bin\Debug\net6.0\Recruiter.Persistence.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\bin\Debug\net6.0\Recruiter.Persistence.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.csproj.AssemblyReference.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.AssemblyInfoInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.AssemblyInfo.cs
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\refint\Recruiter.Persistence.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\Recruiter.Persistence.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Persistence\obj\Debug\net6.0\ref\Recruiter.Persistence.dll

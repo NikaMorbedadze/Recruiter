@@ -1,0 +1,12 @@
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\bin\Debug\net6.0\Recruiter.Identity.deps.json
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\bin\Debug\net6.0\Recruiter.Identity.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\bin\Debug\net6.0\Recruiter.Identity.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.csproj.AssemblyReference.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.AssemblyInfoInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.AssemblyInfo.cs
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.csproj.CoreCompileInputs.cache
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\refint\Recruiter.Identity.dll
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\Recruiter.Identity.pdb
+C:\Users\n.morbedadze\Desktop\Recruiter\Recruiter.Identity\obj\Debug\net6.0\ref\Recruiter.Identity.dll
